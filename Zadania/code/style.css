@@ -36,6 +36,17 @@ background: #00CC99;
 padding: 0px;
 }
 
+#footer {
+margin-top: 0px;
+margin-bottom: 0px;
+width: 806px;
+margin-left: auto;
+margin-right: auto;
+background: #00CC99;
+padding: 0px;
+text-align: right;
+}
+
 #pole1 {
 width: 600px;
 height: 40px;
