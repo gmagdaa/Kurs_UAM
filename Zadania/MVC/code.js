@@ -20,7 +20,7 @@ window.onload = function() {
 			if (tmp === tresc) {			
 				czyIstnieje = true;
 				break;
-			}
+			} https://wystarczygest.wordpress.com/wp-admin/
 		}
 		
 		if (czyIstnieje) {
