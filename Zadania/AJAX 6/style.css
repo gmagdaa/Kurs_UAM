@@ -1,0 +1,64 @@
+ul {
+margin: 0px;
+padding: 0px;
+}
+
+ul li {
+background: #00CC99;
+list-style-type: none;
+height: 40px;
+margin: 0px;
+padding: 0px;
+}
+
+ul li:hover {
+	background-color: #006633;
+}
+
+ul li.active {
+	background-color: #996666;
+}
+
+
+body { 
+background-color: #000000;
+margin: 0;
+padding: 0;
+}
+
+#content {
+margin-top: 0px;
+margin-bottom: 0px;
+width: 808px;
+margin-left: auto;
+margin-right: auto;
+background: #00CC99;
+padding: 0px;
+}
+
+#footer {
+margin-top: 0px;
+margin-bottom: 0px;
+width: 808px;
+margin-left: auto;
+margin-right: auto;
+background: #00CC99;
+padding: 0px;
+text-align: right;
+}
+
+#todo_input{
+width: 600px;
+height: 40px;
+margin: 0;
+padding: 0px;
+}
+
+#todo_add_button{
+width: 200px;
+height: 40px;
+margin: 0px;
+padding: 0px;
+background: #00CC99;
+border: none;
+}
